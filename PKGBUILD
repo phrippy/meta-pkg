@@ -3,7 +3,7 @@
 pkgname=meta-pkg
 _pkgname=meta-pkg
 pkgver=20260101
-pkgrel=2
+pkgrel=3
 pkgdesc="A meta package to rule them all"
 arch=('any')
 url="https://github.com/phrippy/meta-pkg"
